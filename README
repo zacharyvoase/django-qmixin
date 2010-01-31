@@ -11,6 +11,9 @@ a manager class, and their methods will be made available on all instances of
 that class (whether on the model itself or via a relation), as well as the
 `QuerySet` instances it produces.
 
+What this achieves is the ability to add queryset-level functionality to your
+model with the minimum amount of work possible.
+
 
 ## Mixins? Heresy!
 
