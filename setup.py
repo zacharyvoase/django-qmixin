@@ -27,7 +27,7 @@ setup(
     version          = get_version(),
     author           = "Zachary Voase",
     author_email     = "zacharyvoase@me.com",
-    url              = 'http://bitbucket.org/zacharyvoase/django-qmixin',
+    url              = 'http://github.com/zacharyvoase/django-qmixin',
     description      = "A Django app for extending managers and the querysets they produce.",
     packages         = find_packages(where='src'),
     package_dir      = {'': 'src'},

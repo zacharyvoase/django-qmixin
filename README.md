@@ -1,5 +1,3 @@
-<!--*-markdown-*-->
-
 # `django-qmixin`
 
 `django-qmixin` is a reusable Django application for extending managers and the
